@@ -1,0 +1,58 @@
+* {
+    background-color: palegreen;
+}
+
+h1 {
+    font-size: 175px;
+    text-align: center;
+    font-family: Brush Script MT, Brush Script Std, cursive;
+    color: white;
+    -webkit-text-stroke-width: 2px;
+    -webkit-text-stroke-color: rgb(87, 143, 226);
+}
+
+h2 {
+    text-align: center;
+    font-family: Snell Roundhand, cursive;
+    color: white;
+    font-size: 100px;
+    -webkit-text-stroke-width: 2px;
+    -webkit-text-stroke-color: rgb(87, 143, 226);
+}
+
+h3 {
+    font-size: 30px;
+    text-align: center;
+    color: white;
+    font-family: Snell Roundhand, cursive;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: rgb(87, 143, 226);
+}
+
+.supplies {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+img {
+    border: 15px solid white;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+
+p {
+    font-size: 27px;
+    text-align: center;
+    font-family: Snell Roundhand, cursive;
+    color: rgb(87, 143, 226);
+}
+
+hr {
+    border: 3px dashed rgb(247, 248, 250); width: 100%; margin: auto; margin-top: 5%; margin-bottom: 5%; 
+}
+
+#logo {
+    writing-mode: vertical-rl; 
+}
